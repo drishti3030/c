@@ -50,5 +50,3 @@
 //}
 
 
-int a=10;
-printf("%c",char(55+a));
